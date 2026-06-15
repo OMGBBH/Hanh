@@ -10,7 +10,7 @@ udp://225.1.2.20:30120
 udp://225.1.1.131:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtnb" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-vtv5-tay-nam-bo.png",VTV5 HD Tây Nam Bộ
 udp://225.1.2.236:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://ibb.co/1fmvBHn5",VTV5 HD Tây Nguyên
+#EXTINF:-1 group-title="VTV" tvg-logo="https://postimg.cc/dhcB6yr4",VTV5 HD Tây Nguyên
 udp://225.1.1.108:30120
 #EXTINF:-1 tvg-name="VTV6-VTV" group-title="VTV" tvg-id="vtv6hd" tvg-chno="6" tvg-logo="https://i.imgur.com/GtnRg0D.png", VTV6 HD
 udp://225.1.2.154:30120
